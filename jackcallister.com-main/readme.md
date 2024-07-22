@@ -1,4 +1,4 @@
-# 🌏 My Cool Site Builder
+# 🌏 Hello world
 
 ![Screenshot 2024-07-18 at 12 36 22 PM](https://github.com/user-attachments/assets/b6b56c30-ed42-4cc1-95e4-d8b2f596f028)
 
